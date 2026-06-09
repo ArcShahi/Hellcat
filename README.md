@@ -18,9 +18,9 @@ It's just a learning process.
 I'm also implementging it in raw assembly for fun, [Here](https://github.com/ArcShahi/ASM-x86-64) take a look.
 
 I really have no idea why am even writing it , it's fun for  sure but what'll become of it ?
-Maybe after benchmarking, I'll just make 2 versions of it : SIMD and C++
+Will it become usable Maths library ? Who knows... maybe ,  2 versions of it : SIMD and C++
 
-Mayble I'll implement some elegant mathematical algorithms... who knows ?  It a long journey.
+Mayble I'll implement some elegant mathematical algorithms!! I'm not really sure.  **It a long journey**.
 
 
 ## Usage

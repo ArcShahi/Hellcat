@@ -40,11 +40,11 @@ Use that Lib files and `.dll` however you want.
 #include <vec3.hpp>
 
 int main() {
- htc::vec3 v{0,6,9}; 
- htc::vec3 u{4,2,0}; 
+ hct::vec3 v{0,6,9}; 
+ hct::vec3 u{4,2,0}; 
 
- u=htc::scale(u,5.0f);
- const float dp{htc::dot_product(u,v)};
+ u = hct::scale(u,5.0f);
+ const float dp{hct::dot_product(u,v)};
  std::println("Dot product of u,v = {}",dp);
 
 }

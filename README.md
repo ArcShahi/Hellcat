@@ -1,12 +1,11 @@
-# Hellcal
+# Hellcat
 
 A toy SIMD maths library written using C++23 and Intel Intrinsic.
 
 It's another toy of mine. It's not for general use, it's more like a reference / notes for me.
+The goal is to learn more about **memory, RAM brandwidth, Cache and Benchmarking.**
 
-The goal is to learn more about memory, RAM brandwidth, Cache and Benchmarking.
-
-I'll write function in SIMD if it makes sense. I'm not gonna fucking write addition of 2 nubmers using SIMD.
+I'll write function in SIMD if it makes sense.
 
 What's better way to learn SIMD than to write a maths library  ?!!
 
